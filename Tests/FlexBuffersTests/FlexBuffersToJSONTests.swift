@@ -7,7 +7,7 @@
 //
 
 import XCTest
-import FlexBuffers
+@testable import FlexBuffers
 
 class FlexBuffersToJSONTests: XCTestCase {
 
